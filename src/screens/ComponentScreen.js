@@ -19,4 +19,3 @@ const Styles = StyleSheet.create({
 })
 export default ComponentScreen;
 
-262,13
